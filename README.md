@@ -1,2 +1,2 @@
 # ComandosLinux
-En este repositorio realizo una practica de comandos utilizados para los permisos de archivos en Linux 
+En este repositorio realizo una practica de comandos utilizados para los permisos de archivos en Linux realizado con el instituto Coursera.
